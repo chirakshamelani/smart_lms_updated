@@ -1,0 +1,30 @@
+# Node.js backend
+node_modules/
+.env
+dist/
+build/
+*.log
+
+# Frontend (React/Vue/Angular)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+# IDE/editor files
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Misc
+*.bak
+*.tmp

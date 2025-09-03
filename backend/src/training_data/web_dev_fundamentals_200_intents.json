@@ -1,0 +1,99 @@
+[
+ 
+  {
+    "intent": "what_is_web_development",
+    "patterns": [
+      "what is web development",
+      "explain web development",
+      "define web development",
+      "tell me about web development",
+      "meaning of web development"
+    ],
+    "responses": [
+      "Web development is creating and maintaining websites or web apps.",
+      "It ranges from simple static pages to complex applications like Amazon.",
+      "It involves building websites that run on the internet.",
+      "Web development includes both how sites look and how they work."
+    ]
+  },
+  {
+    "intent": "why_web_development",
+    "patterns": [
+      "why use web development",
+      "why is web development important",
+      "benefits of web development",
+      "purpose of web development",
+      "why do we need web development"
+    ],
+    "responses": [
+      "Web development shares information through websites like blogs or news sites.",
+      "It connects people via social media platforms like Instagram.",
+      "It enables online businesses, like e-commerce or banking apps.",
+      "Web development automates tasks and boosts digital presence."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals",
+    "patterns": [
+      "what are web development fundamentals",
+      "explain web development basics",
+      "define web development fundamentals",
+      "introduction to web development fundamentals",
+      "web development core concepts"
+    ],
+    "responses": [
+      "Web development fundamentals include frontend (UI) and backend (server) work.",
+      "Core technologies are HTML for structure, CSS for style, and JavaScript for interactivity.",
+      "It involves responsive design, APIs, and databases like MySQL or MongoDB.",
+      "Fundamentals cover version control, security, and deployment."
+    ]
+  },
+  {
+    "intent": "what_web_developer_does",
+    "patterns": [
+      "what does a web developer do",
+      "role of a web developer",
+      "explain web developer job",
+      "tasks of a web developer",
+      "web developer responsibilities"
+    ],
+    "responses": [
+      "Web developers create and maintain websites and web apps.",
+      "They code the frontend with HTML, CSS, and JavaScript for user interfaces.",
+      "They build backend logic and connect it to databases.",
+      "Developers ensure site functionality and performance over time."
+    ]
+  },
+  {
+    "intent": "types_of_web_development",
+    "patterns": [
+      "types of web development",
+      "what are web development types",
+      "explain web development categories",
+      "list types of web development",
+      "different kinds of web development"
+    ],
+    "responses": [
+      "Web development includes frontend, backend, and full-stack development.",
+      "Frontend focuses on user interfaces using HTML, CSS, and JavaScript.",
+      "Backend handles server-side logic, APIs, and databases.",
+      "Full-stack developers work on both frontend and backend."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_details",
+    "patterns": [
+      "details about web development fundamentals",
+      "explain web development fundamentals details",
+      "web development core technologies",
+      "describe web development basics",
+      "what are web dev fundamentals details"
+    ],
+    "responses": [
+      "Web dev fundamentals include HTML for structure, CSS for styling, and JavaScript for interactivity.",
+      "Responsive design ensures sites work on all devices using media queries.",
+      "DOM manipulation and event handling make sites dynamic.",
+      "Best practices include accessibility, security, and performance optimization."
+    ]
+  }
+]
