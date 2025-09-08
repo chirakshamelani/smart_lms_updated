@@ -37,7 +37,7 @@ The Smart LMS Peer Mentoring System is an AI-powered platform that connects high
 
 ## 🏗️ **Technical Architecture**
 
-### **Backend (Node.js + Express + PostgreSQL)**
+### **Backend (Node.js + Express +SQL)**
 
 #### Database Schema
 ```sql
